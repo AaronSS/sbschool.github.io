@@ -1,0 +1,2 @@
+# Saint Bernard School
+Saint Bernard School, a Catholic co-educational school, co-sponsored by the Diocese of Norwich and the Xaverian Brothers, admits students from grades 6 through 12. Enriched by values attentive to the teachings of Jesus Christ, the Saint Bernard School community is committed to a challenging college-preparatory education for students of all faiths. Saint Bernard School provides a safe and supportive environment which promotes academic achievement and generates growth in maturity, behavior, character and service to others.
