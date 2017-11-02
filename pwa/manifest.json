@@ -1,7 +1,7 @@
 {
-  "name": "Aaron Blog",
-  "short_name": "Aaron Blog",
-  "description": "作死小能手",
+  "name": "Saint Bernard School's Blog",
+  "short_name": "SBS Blog",
+  "description": "A Catholic co-educational school",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
